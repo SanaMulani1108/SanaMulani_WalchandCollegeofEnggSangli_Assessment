@@ -323,7 +323,7 @@
       
       .slider-container {
         position: relative;
-        width: 60%; 
+        width: 100%; 
         max-width: 490px; 
         height: 600px; 
         max-height: 465px; 
@@ -515,7 +515,7 @@
     .slider-container {
       position: relative;
     
-      height: 700px; 
+      height: 500px; 
       max-height: 610px;
       margin: auto;
       overflow: hidden;
