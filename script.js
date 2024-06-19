@@ -4,7 +4,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const form = document.getElementById("contact-form");
     const nameField = document.getElementById("name");
     const emailField = document.getElementById("email");
-    const messageField = document.getElementById("msg");
+    const messageField = document.getElementById("message");
 
     form.addEventListener("submit", function(event) {
         let valid = true;
